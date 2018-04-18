@@ -1,0 +1,18 @@
+body{
+  background-color: #DBEFF3  ;
+}
+h1{
+  color: #FFFFFF;
+  text-align: center;
+}
+h2 {
+  color: #000000;
+  font-style: oblique;
+  text-align: left;
+}
+p {
+  font-family: fantasy;
+}
+ul {
+  line-height: 30px;
+}
